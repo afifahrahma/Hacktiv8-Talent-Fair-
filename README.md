@@ -6,4 +6,3 @@ Dalam project ini dilakukan customer segmentation dengan teknik clustering algor
 
 Terdapat 3 cluster yang terbentuk, yaitu cluster 0, cluster 1, dan cluster 2.
 
-Link Dashboard: https://public.tableau.com/app/profile/afifah.rahma/viz/CustomerSegmentation_16690168809440/Dashboard1#1
